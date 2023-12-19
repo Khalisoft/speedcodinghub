@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import Button from "../components/Button";
+import Button from "../../components/Button";
 import Logo from "./../../assets/logo.png";
 const Landing = () => {
 	const navigate = useNavigate();
